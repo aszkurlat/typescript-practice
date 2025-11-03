@@ -1,8 +1,5 @@
 // 📘 Objects in TypeScript
-// -------------------------
-// 📦 What is an object?
-// -------------------------
-// An object is a group of related data stored together in key–value pairs.
+// 📦 An object is a group of related data stored together in key–value pairs.
 // Think of it like a "box" that holds multiple labeled values.
 
 // Example: a person
@@ -60,8 +57,6 @@ console.log("Updated user:", myUser)
 
 // -------------------------
 // 📘 Accessing Object Properties in TypeScript
-// In this lesson, you'll learn how to read values from objects using dot notation and bracket notation.
-
 // -------------------------
 // 🧱 Objects Recap
 // -------------------------
